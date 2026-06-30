@@ -1,0 +1,330 @@
+{
+  "accuracy": 0.9873567759778744,
+  "precision": 0.9878667564342212,
+  "recall": 0.9873567759778744,
+  "f1": 0.9874152707734576,
+  "misclassified": [
+    {
+      "index": 217,
+      "true_label": 47,
+      "pred_label": 42,
+      "true_name": "Unknown sign 47",
+      "pred_name": "End of no passing by vehicles over 3.5 tons",
+      "confidence": 0.6602346897125244,
+      "true_confidence": 0.05657709017395973
+    },
+    {
+      "index": 384,
+      "true_label": 48,
+      "pred_label": 49,
+      "true_name": "Unknown sign 48",
+      "pred_name": "Unknown sign 49",
+      "confidence": 0.7930839657783508,
+      "true_confidence": 0.17515486478805542
+    },
+    {
+      "index": 525,
+      "true_label": 14,
+      "pred_label": 15,
+      "true_name": "Stop",
+      "pred_name": "No vehicles",
+      "confidence": 0.8941030502319336,
+      "true_confidence": 0.10549812763929367
+    },
+    {
+      "index": 764,
+      "true_label": 1,
+      "pred_label": 2,
+      "true_name": "Speed limit (30 km/h)",
+      "pred_name": "Speed limit (50 km/h)",
+      "confidence": 0.9219838380813599,
+      "true_confidence": 0.07786835730075836
+    },
+    {
+      "index": 886,
+      "true_label": 27,
+      "pred_label": 29,
+      "true_name": "Pedestrians",
+      "pred_name": "Bicycles crossing",
+      "confidence": 0.73710036277771,
+      "true_confidence": 0.22309337556362152
+    },
+    {
+      "index": 891,
+      "true_label": 14,
+      "pred_label": 15,
+      "true_name": "Stop",
+      "pred_name": "No vehicles",
+      "confidence": 0.8967181444168091,
+      "true_confidence": 0.10309863090515137
+    },
+    {
+      "index": 1037,
+      "true_label": 2,
+      "pred_label": 1,
+      "true_name": "Speed limit (50 km/h)",
+      "pred_name": "Speed limit (30 km/h)",
+      "confidence": 0.6940454244613647,
+      "true_confidence": 0.303966224193573
+    },
+    {
+      "index": 1182,
+      "true_label": 55,
+      "pred_label": 63,
+      "true_name": "Unknown sign 55",
+      "pred_name": "Unknown sign 63",
+      "confidence": 0.29701346158981323,
+      "true_confidence": 0.2436838001012802
+    },
+    {
+      "index": 1328,
+      "true_label": 9,
+      "pred_label": 0,
+      "true_name": "No passing",
+      "pred_name": "Speed limit (20 km/h)",
+      "confidence": 0.7945728302001953,
+      "true_confidence": 0.07365281134843826
+    },
+    {
+      "index": 1361,
+      "true_label": 14,
+      "pred_label": 9,
+      "true_name": "Stop",
+      "pred_name": "No passing",
+      "confidence": 0.9294151067733765,
+      "true_confidence": 0.0007190848118625581
+    },
+    {
+      "index": 1395,
+      "true_label": 26,
+      "pred_label": 1,
+      "true_name": "Traffic signals",
+      "pred_name": "Speed limit (30 km/h)",
+      "confidence": 0.7263011932373047,
+      "true_confidence": 0.17105314135551453
+    },
+    {
+      "index": 1445,
+      "true_label": 42,
+      "pred_label": 53,
+      "true_name": "End of no passing by vehicles over 3.5 tons",
+      "pred_name": "Unknown sign 53",
+      "confidence": 0.7470735311508179,
+      "true_confidence": 0.2140815556049347
+    },
+    {
+      "index": 1469,
+      "true_label": 49,
+      "pred_label": 48,
+      "true_name": "Unknown sign 49",
+      "pred_name": "Unknown sign 48",
+      "confidence": 0.9954841136932373,
+      "true_confidence": 0.004035111051052809
+    },
+    {
+      "index": 1618,
+      "true_label": 42,
+      "pred_label": 45,
+      "true_name": "End of no passing by vehicles over 3.5 tons",
+      "pred_name": "Unknown sign 45",
+      "confidence": 0.9097463488578796,
+      "true_confidence": 0.07032031565904617
+    },
+    {
+      "index": 1675,
+      "true_label": 48,
+      "pred_label": 49,
+      "true_name": "Unknown sign 48",
+      "pred_name": "Unknown sign 49",
+      "confidence": 0.6711360812187195,
+      "true_confidence": 0.3243671655654907
+    },
+    {
+      "index": 1685,
+      "true_label": 57,
+      "pred_label": 60,
+      "true_name": "Unknown sign 57",
+      "pred_name": "Unknown sign 60",
+      "confidence": 0.40897712111473083,
+      "true_confidence": 0.05178653076291084
+    },
+    {
+      "index": 1865,
+      "true_label": 49,
+      "pred_label": 63,
+      "true_name": "Unknown sign 49",
+      "pred_name": "Unknown sign 63",
+      "confidence": 0.7424419522285461,
+      "true_confidence": 0.05695676431059837
+    },
+    {
+      "index": 1925,
+      "true_label": 19,
+      "pred_label": 17,
+      "true_name": "Dangerous curve left",
+      "pred_name": "No entry",
+      "confidence": 0.5754375457763672,
+      "true_confidence": 0.2282382994890213
+    },
+    {
+      "index": 1964,
+      "true_label": 23,
+      "pred_label": 25,
+      "true_name": "Slippery road",
+      "pred_name": "Road work",
+      "confidence": 0.9997966885566711,
+      "true_confidence": 5.391111335484311e-05
+    },
+    {
+      "index": 1999,
+      "true_label": 18,
+      "pred_label": 48,
+      "true_name": "General caution",
+      "pred_name": "Unknown sign 48",
+      "confidence": 0.5744867324829102,
+      "true_confidence": 0.12864471971988678
+    }
+  ],
+  "confused_pairs": [
+    {
+      "true_class": 14,
+      "pred_class": 15,
+      "count": 5,
+      "true_name": "Stop",
+      "pred_name": "No vehicles"
+    },
+    {
+      "true_class": 2,
+      "pred_class": 1,
+      "count": 4,
+      "true_name": "Speed limit (50 km/h)",
+      "pred_name": "Speed limit (30 km/h)"
+    },
+    {
+      "true_class": 25,
+      "pred_class": 24,
+      "count": 3,
+      "true_name": "Road work",
+      "pred_name": "Road narrows on the right"
+    },
+    {
+      "true_class": 29,
+      "pred_class": 27,
+      "count": 3,
+      "true_name": "Bicycles crossing",
+      "pred_name": "Pedestrians"
+    },
+    {
+      "true_class": 48,
+      "pred_class": 49,
+      "count": 3,
+      "true_name": "Unknown sign 48",
+      "pred_name": "Unknown sign 49"
+    },
+    {
+      "true_class": 1,
+      "pred_class": 2,
+      "count": 2,
+      "true_name": "Speed limit (30 km/h)",
+      "pred_name": "Speed limit (50 km/h)"
+    },
+    {
+      "true_class": 23,
+      "pred_class": 25,
+      "count": 2,
+      "true_name": "Slippery road",
+      "pred_name": "Road work"
+    },
+    {
+      "true_class": 42,
+      "pred_class": 40,
+      "count": 2,
+      "true_name": "End of no passing by vehicles over 3.5 tons",
+      "pred_name": "Roundabout mandatory"
+    },
+    {
+      "true_class": 57,
+      "pred_class": 60,
+      "count": 2,
+      "true_name": "Unknown sign 57",
+      "pred_name": "Unknown sign 60"
+    },
+    {
+      "true_class": 58,
+      "pred_class": 64,
+      "count": 2,
+      "true_name": "Unknown sign 58",
+      "pred_name": "Unknown sign 64"
+    },
+    {
+      "true_class": 2,
+      "pred_class": 14,
+      "count": 1,
+      "true_name": "Speed limit (50 km/h)",
+      "pred_name": "Stop"
+    },
+    {
+      "true_class": 2,
+      "pred_class": 20,
+      "count": 1,
+      "true_name": "Speed limit (50 km/h)",
+      "pred_name": "Dangerous curve right"
+    },
+    {
+      "true_class": 9,
+      "pred_class": 0,
+      "count": 1,
+      "true_name": "No passing",
+      "pred_name": "Speed limit (20 km/h)"
+    },
+    {
+      "true_class": 9,
+      "pred_class": 4,
+      "count": 1,
+      "true_name": "No passing",
+      "pred_name": "Speed limit (70 km/h)"
+    },
+    {
+      "true_class": 9,
+      "pred_class": 17,
+      "count": 1,
+      "true_name": "No passing",
+      "pred_name": "No entry"
+    },
+    {
+      "true_class": 14,
+      "pred_class": 9,
+      "count": 1,
+      "true_name": "Stop",
+      "pred_name": "No passing"
+    },
+    {
+      "true_class": 14,
+      "pred_class": 19,
+      "count": 1,
+      "true_name": "Stop",
+      "pred_name": "Dangerous curve left"
+    },
+    {
+      "true_class": 18,
+      "pred_class": 4,
+      "count": 1,
+      "true_name": "General caution",
+      "pred_name": "Speed limit (70 km/h)"
+    },
+    {
+      "true_class": 18,
+      "pred_class": 17,
+      "count": 1,
+      "true_name": "General caution",
+      "pred_name": "No entry"
+    },
+    {
+      "true_class": 18,
+      "pred_class": 48,
+      "count": 1,
+      "true_name": "General caution",
+      "pred_name": "Unknown sign 48"
+    }
+  ]
+}

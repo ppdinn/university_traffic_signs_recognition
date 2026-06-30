@@ -1,0 +1,252 @@
+[
+  {
+    "timestamp": "2026-06-25T23:16:39",
+    "model_name": "vgg16",
+    "image_name": "000123.png",
+    "pred_class": 14,
+    "pred_name": "Движение без остановки запрещено (STOP)",
+    "confidence": 0.9987,
+    "degradation": null,
+    "severity": null,
+    "top5": [
+      {
+        "class": 14,
+        "name": "STOP",
+        "prob": 0.9987
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T23:16:39",
+    "model_name": "densenet121",
+    "image_name": "000456.png",
+    "pred_class": 1,
+    "pred_name": "Ограничение скорости (30 км/ч)",
+    "confidence": 0.9421,
+    "degradation": "blur",
+    "severity": 0.4,
+    "top5": null
+  },
+  {
+    "timestamp": "2026-06-25T23:23:49",
+    "model_name": "densenet121",
+    "image_name": "000031.png",
+    "pred_class": 48,
+    "pred_name": "Неизвестный знак 48",
+    "confidence": 1.0,
+    "degradation": null,
+    "severity": null,
+    "top5": [
+      {
+        "class": 48,
+        "name": "Неизвестный знак 48",
+        "prob": 1.0
+      },
+      {
+        "class": 27,
+        "name": "Пешеходный переход",
+        "prob": 0.0
+      },
+      {
+        "class": 49,
+        "name": "Неизвестный знак 49",
+        "prob": 0.0
+      },
+      {
+        "class": 64,
+        "name": "Неизвестный знак 64",
+        "prob": 0.0
+      },
+      {
+        "class": 42,
+        "name": "Конец зоны запрещения обгона грузовым автомобилям",
+        "prob": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T23:24:01",
+    "model_name": "densenet121",
+    "image_name": "000028.png",
+    "pred_class": 17,
+    "pred_name": "Въезд запрещён",
+    "confidence": 0.99992,
+    "degradation": null,
+    "severity": null,
+    "top5": [
+      {
+        "class": 17,
+        "name": "Въезд запрещён",
+        "prob": 0.99992
+      },
+      {
+        "class": 18,
+        "name": "Прочие опасности",
+        "prob": 2.5e-05
+      },
+      {
+        "class": 23,
+        "name": "Скользкая дорога",
+        "prob": 2.3e-05
+      },
+      {
+        "class": 25,
+        "name": "Дорожные работы",
+        "prob": 9e-06
+      },
+      {
+        "class": 19,
+        "name": "Опасный поворот налево",
+        "prob": 5e-06
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-30T20:02:37",
+    "model_name": "densenet121",
+    "image_name": "000010.png",
+    "pred_class": 60,
+    "pred_name": "Неизвестный знак 60",
+    "confidence": 0.999949,
+    "degradation": null,
+    "severity": null,
+    "top5": [
+      {
+        "class": 60,
+        "name": "Неизвестный знак 60",
+        "prob": 0.999949
+      },
+      {
+        "class": 63,
+        "name": "Неизвестный знак 63",
+        "prob": 4.4e-05
+      },
+      {
+        "class": 55,
+        "name": "Неизвестный знак 55",
+        "prob": 5e-06
+      },
+      {
+        "class": 62,
+        "name": "Неизвестный знак 62",
+        "prob": 1e-06
+      },
+      {
+        "class": 56,
+        "name": "Неизвестный знак 56",
+        "prob": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-30T20:02:50",
+    "model_name": "densenet121",
+    "image_name": "000031.png",
+    "pred_class": 48,
+    "pred_name": "Неизвестный знак 48",
+    "confidence": 1.0,
+    "degradation": null,
+    "severity": null,
+    "top5": [
+      {
+        "class": 48,
+        "name": "Неизвестный знак 48",
+        "prob": 1.0
+      },
+      {
+        "class": 27,
+        "name": "Пешеходный переход",
+        "prob": 0.0
+      },
+      {
+        "class": 49,
+        "name": "Неизвестный знак 49",
+        "prob": 0.0
+      },
+      {
+        "class": 64,
+        "name": "Неизвестный знак 64",
+        "prob": 0.0
+      },
+      {
+        "class": 42,
+        "name": "Конец зоны запрещения обгона грузовым автомобилям",
+        "prob": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-30T20:02:58",
+    "model_name": "densenet121",
+    "image_name": "000138.png",
+    "pred_class": 61,
+    "pred_name": "Неизвестный знак 61",
+    "confidence": 0.999999,
+    "degradation": null,
+    "severity": null,
+    "top5": [
+      {
+        "class": 61,
+        "name": "Неизвестный знак 61",
+        "prob": 0.999999
+      },
+      {
+        "class": 55,
+        "name": "Неизвестный знак 55",
+        "prob": 1e-06
+      },
+      {
+        "class": 29,
+        "name": "Пересечение с велосипедной дорожкой",
+        "prob": 0.0
+      },
+      {
+        "class": 59,
+        "name": "Неизвестный знак 59",
+        "prob": 0.0
+      },
+      {
+        "class": 60,
+        "name": "Неизвестный знак 60",
+        "prob": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-30T20:03:14",
+    "model_name": "densenet121",
+    "image_name": "000034.png",
+    "pred_class": 38,
+    "pred_name": "Держитесь правее",
+    "confidence": 0.99996,
+    "degradation": null,
+    "severity": null,
+    "top5": [
+      {
+        "class": 38,
+        "name": "Держитесь правее",
+        "prob": 0.99996
+      },
+      {
+        "class": 53,
+        "name": "Неизвестный знак 53",
+        "prob": 3.5e-05
+      },
+      {
+        "class": 42,
+        "name": "Конец зоны запрещения обгона грузовым автомобилям",
+        "prob": 5e-06
+      },
+      {
+        "class": 54,
+        "name": "Неизвестный знак 54",
+        "prob": 0.0
+      },
+      {
+        "class": 44,
+        "name": "Неизвестный знак 44",
+        "prob": 0.0
+      }
+    ]
+  }
+]

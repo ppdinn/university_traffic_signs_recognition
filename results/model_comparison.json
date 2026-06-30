@@ -1,0 +1,52 @@
+{
+  "resnet50": {
+    "best_val_acc": 0.9867641248518372,
+    "num_params": 23645315,
+    "training_time": 446.10595989227295,
+    "val_accuracy": 0.9867641248518372,
+    "val_precision": 0.9874074606183407,
+    "val_recall": 0.9867641248518372,
+    "val_f1": 0.9868717575356268,
+    "inference_time_ms": 0.06802896969020367
+  },
+  "efficientnet_b0": {
+    "best_val_acc": 0.9834057684709601,
+    "num_params": 4093375,
+    "training_time": 460.7526903152466,
+    "val_accuracy": 0.9834057684709601,
+    "val_precision": 0.9843162933230563,
+    "val_recall": 0.9834057684709601,
+    "val_f1": 0.983564110372306,
+    "inference_time_ms": 0.09766551665961742
+  },
+  "vgg16": {
+    "best_val_acc": 0.9922955353615172,
+    "num_params": 134535043,
+    "training_time": 792.514541387558,
+    "val_accuracy": 0.9922955353615172,
+    "val_precision": 0.992479868893916,
+    "val_recall": 0.9922955353615172,
+    "val_f1": 0.9922821445572924,
+    "inference_time_ms": 0.021347496658563614
+  },
+  "densenet121": {
+    "best_val_acc": 0.9873567759778744,
+    "num_params": 7022531,
+    "training_time": 543.0570132732391,
+    "val_accuracy": 0.9861714737258,
+    "val_precision": 0.9869189899855724,
+    "val_recall": 0.9861714737258,
+    "val_f1": 0.9862936527820149,
+    "inference_time_ms": 0.17214654944837093
+  },
+  "mobilenet_v3_small": {
+    "best_val_acc": 0.9606874753062031,
+    "num_params": 1586531,
+    "training_time": 423.1480529308319,
+    "val_accuracy": 0.9606874753062031,
+    "val_precision": 0.96570896441319,
+    "val_recall": 0.9606874753062031,
+    "val_f1": 0.9618940819854797,
+    "inference_time_ms": 0.0671755988150835
+  }
+}
